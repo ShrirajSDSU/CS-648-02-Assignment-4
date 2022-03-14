@@ -1,5 +1,5 @@
-# Inventory Page
+# Inventory Web-App
 
-CS648
+CS-648-02-Assignment-4
 
 
