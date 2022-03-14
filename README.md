@@ -1,1 +1,5 @@
-# CS-648-02-Assignment-4
+# Inventory Page
+
+CS648
+
+
